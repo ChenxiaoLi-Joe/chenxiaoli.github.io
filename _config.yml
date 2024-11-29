@@ -12,7 +12,7 @@ title                    : "Chenxiao's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://ChenxiaoLi-Joe.github.io/chenxiaoli.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://ChenxiaoLi-Joe.github.io/chenxiaoli.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ChenxiaoLi-Joe/chenxiaoli.github.io"
 
@@ -24,7 +24,7 @@ author:
   avatar           : "avatar.png"
   name             : "Chenxiao Li"
   pronouns         : # example: "she/her"  
-  bio              : "Master student (Looking for PHD positions)"
+  bio              : "Master's student"
   location         : "Shenyang, China"
   employer         : "Northeastern University"
   uri              : # URL
