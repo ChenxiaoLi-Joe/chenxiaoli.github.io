@@ -11,6 +11,10 @@ I am now a Third-year(2022-) master’s student from [Software College](http://s
 
 ***If you are interested in my field of work, any form of collaboration and communication is welcome. Please feel free to contact me ! (looking for PHD positions)*** 
 
+```
+$\textcolor{red}{If you are interested in my field of work, any form of collaboration and communication is welcome. Please feel free to contact me ! (looking for PHD positions)} $
+```
+
 # My research interest includes:
 
 - Artificial Intelligence
