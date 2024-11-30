@@ -1,9 +1,8 @@
 ---
 title: "Shenyang Zhongteng Zhongchuang Technology Co., Ltd."
-collection: experiences
-category: internship
+collection: teaching
 type: "Undergraduate course"
-permalink: /experiences/internship-experiences1.md
+permalink: /experiences/experiences1
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"
