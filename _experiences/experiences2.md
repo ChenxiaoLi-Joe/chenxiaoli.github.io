@@ -1,11 +1,11 @@
 ---
 title: "Monitor"
-collection: experiences
-type: "1"
+collection: teaching
+type: "Undergraduate course"
 permalink: /experiences/experiences2
-venue: "2"
-date: 2022.06 - 2023.12
-location: "Shenyang, China"
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.

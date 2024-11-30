@@ -1,11 +1,11 @@
 ---
 title: "Shenyang Zhongteng Zhongchuang Technology Co., Ltd."
-collection: experiences
-type: "Startup"
+collection: teaching
+type: "Undergraduate course"
 permalink: /experiences/experiences1
-venue: "Software Engineer (Intern)"
-date: 2022.06 - 2023.12
-location: "Shenyang, China"
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
