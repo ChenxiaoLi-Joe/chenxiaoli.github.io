@@ -9,11 +9,7 @@ redirect_from:
 
 I am now a Third-year(2022-) master’s student from [Software College](http://sc.neu.edu.cn/english/mainm.htm), [Northeastern University](https://www.neu.edu.cn/). I am very fortunate to be advised by [Prof. Tong Qiang](http://faculty.neu.edu.cn/tongq/en/index.htm) from Software College of Northeastern University. 
 
-***If you are interested in my field of work, any form of collaboration and communication is welcome. Please feel free to contact me ! (looking for PHD positions)*** 
-
-```latex
-$\textcolor{red}{If you are interested in my field of work, any form of collaboration and communication is welcome. Please feel free to contact me ! (looking for PHD positions)} $
-```
+ <font color='red'>***If you are interested in my field of work, any form of collaboration and communication is welcome. Please feel free to contact me ! (looking for PHD positions)***</font> 
 
 # My research interest includes:
 
