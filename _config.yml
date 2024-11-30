@@ -224,7 +224,21 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  competitions:
+    output: true
+    permalink: /:collection/:path/
+  experiences:
+    output: true
+    permalink: /:collection/:path/
+  service:
+    output: true
+    permalink: /:collection/:path/
+  awards:
+    output: true
+    permalink: /:collection/:path/
+  extracurricular activities:
+    output: true
+    permalink: /:collection/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:
@@ -281,6 +295,51 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _competitions
+  - scope:
+      path: ""
+      type: competitions
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+    # _experiences
+  - scope:
+      path: ""
+      type: experiences
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+    # _service
+  - scope:
+      path: ""
+      type: service
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+    # _awards
+  - scope:
+      path: ""
+      type: awards
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+    # _extracurricular activities
+  - scope:
+      path: ""
+      type: extracurricular activities
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 
 
 # Sass/SCSS
