@@ -1,5 +1,6 @@
 ---
 title: "Honors"
+collection: awards
 ---
 
 1.优秀研究生

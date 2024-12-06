@@ -1,5 +1,6 @@
 ---
 title: "Scholarships"
+collection: awards
 ---
 
 1.国家奖学金
