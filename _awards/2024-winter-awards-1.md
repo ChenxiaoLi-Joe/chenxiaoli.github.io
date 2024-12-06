@@ -1,6 +1,7 @@
-Scholarships:
+---
+title: "Scholarships"
+---
 
+1.国家奖学金
 
-
-Honors:
-
+2.华为奖学金
