@@ -11,8 +11,8 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
@@ -26,17 +26,17 @@ main:
   # - title: "Guide"
   #   url: /markdown/
 
-  - title: "Competitions"
-    url: /competitions/
+  # - title: "Competitions"
+  #   url: /competitions/
 
-  - title: "Experiences"
-    url: /experiences/
+  # - title: "Experiences"
+  #   url: /experiences/
 
-  - title: "Service"
-    url: /service/
+  # - title: "Service"
+  #   url: /service/
 
-  - title: "Awards"
-    url: /awards/
+  # - title: "Awards"
+  #   url: /awards/
     
-  - title: "Extracurricular Activities"
-    url: /extracurricular activities/
+  # - title: "Extracurricular Activities"
+  #   url: /extracurricular activities/
