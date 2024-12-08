@@ -1,10 +1,13 @@
 ---
 title: "Entity Alignment Method Based on Multi-granularity Multi-mode Interaction Network"
 collection: publications
-category: patent
+category: patents
 permalink: /publication/2024-02-20-paper-Entity Alignment Method Based on Multi-granularity Multi-mode Interaction Network-number-5
 excerpt: 'Inventor(s): Tong Qiang(My Supervisor), Li Chenxiao'
 date: 2024-02-20
 ---
 
-Multi-modal entity alignment aims to identify equivalent entities between two different multi-modal knowledge graphs, which consist of structural triples and images associated with entities. Unfortunately, prior works fuse the multi-modal knowledge of all entities only via solely one single fusion strategy. Therefore, the impact of the fusion strategy on individual entities could be largely ignored. To solve this challenge, we propose AMF²SEA, an adaptive multi-modal feature fusion strategy for entity alignment, which dynamically selects the optimal entity-level feature fusion strategy. Additionally, we build a new dataset based on DBP15K, which includes a full set of entity images from multiple inconsistent web sources, making it more representative of the real world. Experimental results demonstrate that our model achieves state-of-the-art (SOTA) performance compared to models using the same modality on DBP15K and its variants with richer image sources and styles.
+- Introduces a new method for entity alignment in multi-modal environments.
+- Utilizes multi-granularity vision and multi-mode interaction information for improved accuracy.
+- Enhances cross-lingual knowledge graph fusion and entity alignment.
+- Removes image noise efficiently and optimizes context information usage in knowledge graphs.
