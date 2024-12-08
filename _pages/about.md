@@ -32,10 +32,11 @@ I am now a Third-year(2022-) master’s student from [Software College](http://s
 
 # Professional Competitions:
 
-- Aug. 2021 **[ National First Prize ]** in the University Computer Games Championship & National Games Tournament (Surakarta Category)
 - Aug. 2020 **[ National Third Prize ]** in the University Computer Games Championship & National Games Tournament (Amazon Category)
+
 - Oct. 2020 **[ Third Prize ]** in Mathematical Modeling Competition of Liaoning University of Science and Technology
 - Aug. 2021 **[ National Third Prize ]** in the 14th Chinese Collegiate Computing Competition (Artificial Intelligence Category)
+- Aug. 2021 **[ National First Prize ]** in the University Computer Games Championship & National Games Tournament (Surakarta Category)
 - Jun. 2023 **[ National First Prize ]** in the College Students Digital Skills Application Competition (Python Category)
 - Dec. 2023 **[ National Second Prize ]** in the National College Computer Ability Challenge Programming Challenge (Python Category)
 - Jul. 2024 **[ National Second Prize ]** in the Artificial Intelligence Future Design Competition·New Engineering Innovation Digital Skills Competition (Python Category)	
