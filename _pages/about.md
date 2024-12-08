@@ -32,11 +32,17 @@ I am now a Third-year(2022-) master’s student from [Software College](http://s
 
 # Professional Competitions:
 
-- Aug. 2021 **[ National First Prize ]** in the University Computer Games Championship & National Games Tournament (Surakarta Category)	
+- Aug. 2021 **[ National First Prize ]** in the University Computer Games Championship & National Games Tournament (Surakarta Category)
+- Aug. 2020 **[ National Third Prize ]** in the University Computer Games Championship & National Games Tournament (Amazon Category)
+- Oct. 2020 **[ Third Prize ]** in Mathematical Modeling Competition of Liaoning University of Science and Technology
+- Aug. 2021 **[ National Third Prize ]** in the 14th Chinese Collegiate Computing Competition (Artificial Intelligence Category)
+- Jun. 2023 **[ National First Prize ]** in the College Students Digital Skills Application Competition (Python Category)
+- Dec. 2023 **[ National Second Prize ]** in the National College Computer Ability Challenge Programming Challenge (Python Category)
+- Jul. 2024 **[ National Second Prize ]** in the Artificial Intelligence Future Design Competition·New Engineering Innovation Digital Skills Competition (Python Category)	
 
 # Work Experiences:
 
-- Jun. 2022 – Dec. 2023 **[ Internship ]** in Shenyang Zhongteng Zhongchuang Technology Co., Ltd. (Startup) , Liaoning, China
+- Jun. 2022 – Dec. 2023 **[ Internship ]** in Shenyang Zhongteng Zhongchuang Technology Co., Ltd. (Startup) , Liaoning, China.
 
 # Service:
 
@@ -45,6 +51,9 @@ I am now a Third-year(2022-) master’s student from [Software College](http://s
 # Selected Scholarships and Honors:
 
 - Nov. 2024 **[ Chinese National Scholarship ]**. *This scholarship is with the highest honor that Chinese graduate students can obtain.*
+- Dec. 2023 **[ Huawei Scholarship ]**.
+- Sep. 2023 **[ Northeastern University Future Technology-Taihu Scholarship ]**.
+- May. 2021 **[ Longyuan Scholarship ]**.
 
 # Extracurricular activities:
 
