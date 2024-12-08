@@ -3,7 +3,6 @@ title: "Application and Development of Computer Software Development Technology"
 collection: publications
 category: manuscripts
 permalink: /publication/2020-11-01-paper-Application and Development of Computer Software Development Technology"
-collection: publications-number-1
 excerpt: 'First Author'
 date: 2020-11-01
 venue: 'Digital Design 11 (Part 2), ISSN: 1672-9129'
