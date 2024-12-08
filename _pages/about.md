@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a Third-year(2022-) master’s student from [Software College](http://sc.neu.edu.cn/english/main.htm), [Northeastern University](https://english.neu.edu.cn/). I am very fortunate to be advised by [Prof. Tong Qiang](http://faculty.neu.edu.cn/tongq/en/index.htm) from Software College of Northeastern University. 
+I am now a Third-year(2022-) master’s student from [Software College](http://sc.neu.edu.cn/english/main.htm), [Northeastern University](https://english.neu.edu.cn/). I am very fortunate to be advised by [Prof. Qiang Tong](http://faculty.neu.edu.cn/tongq/en/index.htm) from Software College of Northeastern University. 
 
  <b><i><font color='red'>If you are interested in my field of work, any form of collaboration and communication is welcome. Please feel free to contact me ! (looking for PHD positions)</font> </i></b>
 
