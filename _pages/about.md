@@ -47,15 +47,34 @@ I am now a Third-year(2022-) master’s student from [Software College](http://s
 
 # Service:
 
-- Aug. 2023 **[ Volunteer ]** in “2023 China Conference on Knowledge Graph and Semantic Computing (CCKS)”.
+- Aug. 2023 **[ Volunteer ]** in "2023 China Conference on Knowledge Graph and Semantic Computing (CCKS)".
+- Jul. 2020 - present  **[ Member ]**  of "Chinese Association for Artificial Intelligence (CAAI)".
 
 # Selected Scholarships and Honors:
 
+## Scholarships
+
 - Nov. 2024 **[ Chinese National Scholarship ]**. *This scholarship is with the highest honor that Chinese graduate students can obtain.*
-- Dec. 2023 **[ Huawei Scholarship ]**.
-- Sep. 2023 **[ Northeastern University Future Technology-Taihu Scholarship ]**.
-- May. 2021 **[ Longyuan Scholarship ]**.
+- Nov. 2024 **[ The First Prize Graduate Study Scholarship ]**.
+- Dec. 2023 **[ Huawei Scholarship ]**.  *Company-sponsored Scholarship.*
+- Nov. 2023 **[ The First Prize Graduate Study Scholarship ]**.
+- Sep. 2023 **[ Northeastern University Future Technology-Taihu Scholarship ]**. *Company-sponsored Scholarship.*
+- Nov. 2022 **[ The First Prize Graduate Study Scholarship ]**.
+- Nov. 2021 **[ Huaxin Scholarship ]**. *Company-sponsored Scholarship.*
+- May. 2021 **[ Longyuan Scholarship ]**. *Company-sponsored Scholarship.*
+- Nov. 2020 **[ Huaxin Scholarship ]**. *Company-sponsored Scholarship.*
+
+## Honors
+
+- Dec. 2024 **[  Advanced Group Award for Graduate Students  ]**. *I am the monitor of the class.*
+- Dec. 2024 **[ Outstanding Graduate Student ]**.
+- Dec. 2023 **[  Advanced Group Award for Graduate Students ]**. *I am the monitor of the class.*
+- Dec. 2023 **[ Outstanding Graduate Student ]**.
+- May. 2022 **[ Outstanding Graduate of Liaoning Province ]**. *This honor is with the highest honor that Chinese graduate students can obtain.*
+- Mar. 2022 **[ University Outstanding Graduate ]**.
+- Nov. 2020 **[ Merit Student ]**.
 
 # Extracurricular activities:
 
 - 2024 **[ RUNNER-UP ]** in "The Second 'Youth Flying Cup' Badminton Tournament of Software College, Northeastern University".
+- 2023 **[ RUNNER-UP ]** in "The Second Software College Graduate 'Soft Research Cup' Freshman Basketball Tournament".
