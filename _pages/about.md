@@ -32,17 +32,18 @@ I am now a Third-year(2022-) master’s student from [Software College](http://s
 
 # Professional Competitions:
 
-- Aug. 2020 **[ National Third Prize ]** in the University Computer Games Championship & National Games Tournament (Amazon Category)
-
-- Oct. 2020 **[ Third Prize ]** in Mathematical Modeling Competition of Liaoning University of Science and Technology
-- Aug. 2021 **[ National Third Prize ]** in the 14th Chinese Collegiate Computing Competition (Artificial Intelligence Category)
-- Aug. 2021 **[ National First Prize ]** in the University Computer Games Championship & National Games Tournament (Surakarta Category)
-- Jun. 2023 **[ National First Prize ]** in the College Students Digital Skills Application Competition (Python Category)
-- Dec. 2023 **[ National Second Prize ]** in the National College Computer Ability Challenge Programming Challenge (Python Category)
 - Jul. 2024 **[ National Second Prize ]** in the Artificial Intelligence Future Design Competition·New Engineering Innovation Digital Skills Competition (Python Category)	
+- Dec. 2023 **[ National Second Prize ]** in the National College Computer Ability Challenge Programming Challenge (Python Category)
+- Jun. 2023 **[ National First Prize ]** in the College Students Digital Skills Application Competition (Python Category)
+- Aug. 2021 **[ National First Prize ]** in the University Computer Games Championship & National Games Tournament (Surakarta Category)
+- Aug. 2021 **[ National Third Prize ]** in the 14th Chinese Collegiate Computing Competition (Artificial Intelligence Category)
+- Oct. 2020 **[ Third Prize ]** in Mathematical Modeling Competition of Liaoning University of Science and Technology
+- Aug. 2020 **[ National Third Prize ]** in the University Computer Games Championship & National Games Tournament (Amazon Category)
 
 # Work Experiences:
 
+- Sep. 2023 - Oct. 2024 **[ Chairperson ]** of the Graduate Student Union of the Software College of Northeastern University.
+- Sep. 2022 - Jul. 2025 **[ Class Leader ]** of the Graduate Research Class, Northeastern University.
 - Jun. 2022 – Dec. 2023 **[ Internship ]** in Shenyang Zhongteng Zhongchuang Technology Co., Ltd. (Startup) , Liaoning, China.
 
 # Service:
