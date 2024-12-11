@@ -48,7 +48,7 @@ I am now a Third-year(2022-) master’s student from [Software College](http://s
 # Service:
 
 - Aug. 2023 **[ Volunteer ]** in "2023 China Conference on Knowledge Graph and Semantic Computing (CCKS)".
-- Jul. 2020 - present  **[ Member ]**  of "Chinese Association for Artificial Intelligence (CAAI)".
+- Jul. 2020 - Dec. 2024  **[ Member ]**  of "Chinese Association for Artificial Intelligence (CAAI)".
 
 # Selected Scholarships and Honors:
 
