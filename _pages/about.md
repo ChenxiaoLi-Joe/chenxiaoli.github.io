@@ -67,6 +67,7 @@ I am now a Third-year(2022-) master’s student from [Software College](http://s
 
 ## Honors
 
+- May. 2025 **[ Outstanding Graduate of Liaoning Province ]**. *This honor is with the highest honor that Chinese postgraduate students can obtain.*
 - Dec. 2024 **[  Advanced Group Award for Graduate Students  ]**. *I am the monitor of the class.*
 - Dec. 2024 **[ Outstanding Graduate Student ]**.
 - Dec. 2023 **[  Advanced Group Award for Graduate Students ]**. *I am the monitor of the class.*
