@@ -46,6 +46,11 @@ My research interests lie broadly in Knowledge graphs and Large language models.
 - Aug. 2023 **[ Volunteer ]** in "2023 China Conference on Knowledge Graph and Semantic Computing (CCKS)".
 - Jul. 2020 - Dec. 2024  **[ Member ]**  of "Chinese Association for Artificial Intelligence (CAAI)".
 
+# Skills
+
+- Recently Used: Python, Pytorch, Numpy, Tensorflow
+- Have Experience Before: C/C++, C#, Java
+
 # Professional Competitions
 
 - Jul. 2024 **[ National Second Prize ]** in the Artificial Intelligence Future Design Competition·New Engineering Innovation Digital Skills Competition (Python Category)	
