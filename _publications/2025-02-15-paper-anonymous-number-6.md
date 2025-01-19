@@ -1,5 +1,5 @@
 ---
-title: "Anonymous"
+title: "Submitted"
 collection: publications
 category: conferences
 permalink: /publication/2025-02-15-paper-anonymous-number-6
