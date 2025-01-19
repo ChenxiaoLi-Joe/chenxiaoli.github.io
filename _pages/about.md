@@ -23,7 +23,7 @@ My research interests lie broadly in Knowledge graphs and Large language models.
 - Natural Language Processing (NLP)
 - Large Language Models (LLMs)
 - Multi-modal Learning (MM)
-- Knowledge Graph (KGs)
+- Knowledge Graphs (KGs)
 
 # Education Experiences
 
