@@ -9,9 +9,9 @@ redirect_from:
 
 Hello there! I am Chenxiao Li! I am now a Third-year (2022-) master’s student from [Software College](http://sc.neu.edu.cn/english/main.htm), [Northeastern University](https://english.neu.edu.cn/). I am very fortunate to be supervised by [Prof. Qiang Tong](http://faculty.neu.edu.cn/tongq/en/index.htm) from Software College, and  co-supervised  by [Prof. Fu Zhang](http://faculty.neu.edu.cn/zhangfu/zh_CN/index.htm) and [Jingwei Cheng](http://www.cse.neu.edu.cn/2019/0303/c6641a157424/page.htm) from the School of Computer Science and Engineering. 
 
-Before that, I received my Bachelor’s degree with an outstanding graduate award of Liaoning Province.
+Before that, I received my Bachelor’s degree with an outstanding graduate award of Liaoning Province and was recommended for master's degree program with exam exemption due to exceptional academic performance and research performance.
 
-My research interests lie broadly in Knowledge graphs and Large language models.  Currently, my research focuses on the application of deep learning and large language models in multi-modal learning, especially knowledge-driven LLM, and knowledge-driven multi-modal learning, which will involve integrating knowledge into multi-modal learning, or using multi-modal information to enhance the representation of knowledge. In this case, this will contribute to the development of human-centered NLP in the real world.
+My research interests lie broadly in Knowledge graphs and Large language models.  Currently, my research focuses on large language models and multi-modal learning, specifically knowledge-driven LLMs, and in knowledge-driven multi-modal learning, which involves exploring the integration of knowledge into multi-modal learning or incorporating multi-modal learning into the representation of knowledge. In this case, this will contribute to the development of human-centered NLP in the real world.
 
  <b><i><font color='red'>If you are interested in my field of work, any form of collaboration and communication is welcome. Please feel free to contact me ! (looking for PHD positions in 2025/2026)</font> </i></b>
 
