@@ -39,7 +39,7 @@ My research interests lie broadly in Knowledge graphs and Large language models.
 - Sep. 2022 - Jul. 2025 **[ Research Assistant ]** at the Intelligent Data and Knowledge Engineering Laboratory (IDKE), Northeastern University.
 - Sep. 2022 - Jul. 2025 **[ Class Leader ]** of the Graduate Research Class, Northeastern University.
 - Sep. 2023 - Oct. 2024 **[ Chairperson ]** of the Graduate Student Union of the Software College, Northeastern University.
-- Jun. 2022 – Dec. 2023 **[ Internship ]** at Shenyang Zhongteng Zhongchuang Technology Co., Ltd. (Startup) , Liaoning, China.
+- Jun. 2022 – Dec. 2023 **[ Internship ]** at Shenyang Zhongteng Zhongchuang Technology Co., Ltd. (Startup) , Shenyang, China.
 
 # Service
 
