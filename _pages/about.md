@@ -11,7 +11,7 @@ Hello there! I am Chenxiao Li! I am now a Third-year (2022-) master’s student 
 
 Before that, I received my Bachelor’s degree with an outstanding graduate award of Liaoning Province and was recommended for master's degree program with exam exemption due to exceptional academic performance and research performance.
 
-My research interests lie broadly in Knowledge graphs and Large language models.  Currently, my research focuses on large language models and multi-modal learning, specifically knowledge-driven LLMs, and in knowledge-driven multi-modal learning, which involves exploring the integration of knowledge into multi-modal learning or incorporating multi-modal learning into the representation of knowledge. In this case, this will contribute to the development of human-centered NLP in the real world.
+My research interests lie broadly in Knowledge graphs and Large language models.  Currently, my research focuses on large language models and multi-modal learning, specifically knowledge-driven LLMs, and knowledge-driven multi-modal learning, which involves exploring the integration of knowledge into multi-modal learning or incorporating multi-modal learning into the representation of knowledge. In this case, this will contribute to the development of human-centered NLP in the real world.
 
  <b><i><font color='red'>If you are interested in my field of work, any form of collaboration and communication is welcome. Please feel free to contact me ! (looking for PHD positions in 2025/2026)</font> </i></b>
 
