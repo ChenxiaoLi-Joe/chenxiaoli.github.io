@@ -13,12 +13,13 @@ Before that, I received my Bachelor’s degree with an outstanding graduate awar
 
 My research interests lie broadly in Knowledge graphs and Large language models.  Currently, my research focuses on large language models and multi-modal learning, specifically knowledge-driven LLMs, and knowledge-driven multi-modal learning, which involves exploring the integration of knowledge into multi-modal learning or incorporating multi-modal learning into the representation of knowledge. In this case, this will contribute to the development of human-centered NLP in the real world.
 
-**Email:**
+*Note: If you are not in China, please do not send emails to my uni email, it may not be received. However, you can send emails to my personal email below.*
 
-- **Gmail:** chenxiaoli.joe {at} gmail {dot} com
-- **Outlook:** chenxiaoli_joe {at} outlook {dot} com
-- **163:** chenxiaoli_joe {at} 163 {dot} com
-- **QQ:** 1301451915 {at} qq {dot} com
+- **uni email:** 2271394 at stu dot neu dot edu dot cn 
+
+- **Gmail:** chenxiaoli.joe at gmail dot com
+- **Outlook:** chenxiaoli_joe at outlook dot com
+- **163:** chenxiaoli_joe at 163 dot com
 
  <b><i><font color='red'>If you are interested in my field of work, any form of collaboration and communication is welcome. Please feel free to contact me ! (looking for PHD positions in 2025/2026)</font> </i></b>
 
