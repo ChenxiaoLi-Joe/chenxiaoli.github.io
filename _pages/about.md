@@ -16,7 +16,6 @@ My research interests lie broadly in Knowledge graphs and Large language models.
 *Note: If you are not in China, please do not send emails to my uni email, it may not be received. However, you can send emails to my personal email below.*
 
 - **uni email:** 2271394 at stu dot neu dot edu dot cn 
-
 - **Gmail:** chenxiaoli.joe at gmail dot com
 - **Outlook:** chenxiaoli_joe at outlook dot com
 - **163:** chenxiaoli_joe at 163 dot com
