@@ -20,7 +20,7 @@ My research interests lie broadly in Knowledge graphs and Large language models.
 - **Outlook:** chenxiaoli_joe at outlook dot com
 - **163:** chenxiaoli_joe at 163 dot com
 
- <b><i><font color='red'>If you are interested in my field of work, any form of collaboration and communication is welcome. Please feel free to contact me ! (looking for PHD positions in 2025/2026)</font> </i></b>
+ <b><i><font color='red'>If you are interested in my field of work, any form of collaboration and communication is welcome. Please feel free to contact me ! (looking for PhD positions in 2025/2026)</font> </i></b>
 
 # My research interest includes
 
