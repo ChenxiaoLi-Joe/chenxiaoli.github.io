@@ -36,7 +36,7 @@ My research interests lie broadly in Knowledge graphs and Large language models.
 
 - **2022 - 2025** 
   - M.S. in Software Engineering, Northeastern University (985、211), Shenyang, China
-  - GPA: 3.40/4.0 **(Ranked 1st in cohort)**
+  - GPA: 3.57/4.0 **(Ranked 1st in cohort)**
 - **2018 - 2022** 
   - B.S. in Software Engineering, University of Science and Technology Liaoning, Anshan, China
   - Recommended for Master’s Degree Program with Exam Exemption due to exceptional academic performance and research performance
