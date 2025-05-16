@@ -1,5 +1,5 @@
 ---
-title: "Submitted"
+title: "Accepted"
 collection: publications
 category: conferences
 permalink: /publication/2025-02-15-paper-anonymous-number-6
@@ -9,3 +9,4 @@ venue: 'The 63rd Annual Meeting of the Association for Computational Linguistics
 ---
 
 The paper will be public.
+
