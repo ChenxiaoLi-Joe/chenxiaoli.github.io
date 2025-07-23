@@ -2,7 +2,7 @@
 title: "Exploring the Impacts of Feature Fusion Strategy in Multi-modal Entity Alignment"
 collection: publications
 category: conferences
-permalink: /publication/2024-11-29-paper-Exploring the Impacts of Feature Fusion Strategy in Multi-modal Entity Alignment-number-4
+permalink: /publication/2024-11-29-paper-Exploring the Impacts of Feature Fusion Strategy in Multi-modal Entity Alignment-number-2
 excerpt: 'First Author'
 date: 2024-11-29
 venue: 'The 31st International Conference on Computational Linguistics (COLING 2025)'

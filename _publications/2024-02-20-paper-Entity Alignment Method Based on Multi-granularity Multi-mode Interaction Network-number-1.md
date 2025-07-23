@@ -2,7 +2,7 @@
 title: "Entity Alignment Method Based on Multi-granularity Multi-mode Interaction Network"
 collection: publications
 category: patents
-permalink: /publication/2024-02-20-paper-Entity Alignment Method Based on Multi-granularity Multi-mode Interaction Network-number-5
+permalink: /publication/2024-02-20-paper-Entity Alignment Method Based on Multi-granularity Multi-mode Interaction Network-number-1
 excerpt: 'Inventor(s): Qiang Tong(My Supervisor), Chenxiao Li'
 date: 2024-02-20
 ---
