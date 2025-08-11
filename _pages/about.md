@@ -11,7 +11,7 @@ Hello there! I am Chenxiao Li! I graduated with a Master’s degree in Software 
 
 Before that, I received my Bachelor’s degree with an outstanding graduate award of Liaoning Province and was recommended for master's degree program with exam exemption due to exceptional academic performance and research performance.
 
-My research interests lie broadly in Knowledge graphs and Large language models.  Currently, my research focuses on large language models and multi-modal learning, specifically knowledge-driven LLMs, and knowledge-driven multi-modal learning, which involves exploring the integration of knowledge into multi-modal learning or incorporating multi-modal learning into the representation of knowledge. In this case, this will contribute to the development of human-centered NLP in the real world.
+My research focuses on multi-modal learning, with an emphasis on vision-language models and multi-modal large language models. I am passionate about developing knowledge-enhanced visual reasoning models and designing structural data representations that bridge the gap between perception and cognition. The goal of my research is to enable machines to understand the world in a more human-like manner, thereby fostering more natural and intelligent human-computer interactions.
 
 <b><i><font color='red'>If you are interested in my field of work, any form of collaboration and communication is welcome. Please feel free to contact me !</font> </i></b>
 
@@ -40,8 +40,6 @@ My research interests lie broadly in Knowledge graphs and Large language models.
 
 # Work Experiences
 
-- Sep. 2022 - Jun. 2025 **[ Class Leader ]** of the Graduate Research Class, Northeastern University.
-- Sep. 2023 - Oct. 2024 **[ Chairperson ]** of the Graduate Student Union of the Software College, Northeastern University.
 - Jun. 2022 – Dec. 2023 **[ Internship ]** at Shenyang Zhongteng Zhongchuang Technology Co., Ltd. (Startup) , Shenyang, China.
 
 # Skills
